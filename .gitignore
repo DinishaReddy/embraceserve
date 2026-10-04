@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.egg-info/
+models/
+models_int8/
+models_tinyllama/
+dist/
+build/
+.eggs/
+venv/
